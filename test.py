@@ -16,7 +16,7 @@ ds=nc.Dataset(fn)
 ta=ds.variables['ta']
 lon=ds.variables['lon']  
 lat=ds.variables['lat'] 
-time=ds.variables['time']
+
 
 start=0
 end=16
